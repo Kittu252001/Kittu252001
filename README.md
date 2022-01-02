@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Flutter, Firebase**
 
-- 📫 How to reach me **saikrishna.alishala@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/saikr/Downloads/SaiKrishnaAlishala.%20Resume.pdf](file:///C:/Users/saikr/Downloads/SaiKrishnaAlishala.%20Resume.pdf)
+- 📫 How to reach me **https://www.linkedin.com/in/sai-krishna-alishala-097750199/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
